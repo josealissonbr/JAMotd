@@ -1,0 +1,5 @@
+Config:
+  motds:
+    - '&aMy Beautiful Minecraft Server' # Add colors using & ( https://minecraft.fandom.com/wiki/Formatting_codes#Color_codes )
+    - '&6Orange Text'
+    - '&cRed Text'

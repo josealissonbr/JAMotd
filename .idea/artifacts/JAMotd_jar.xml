@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JAMotd:jar">
+    <output-path>$USER_HOME$/Desktop/Server Teste/plugins</output-path>
+    <root id="archive" name="JAMotd.jar">
+      <element id="module-output" name="JAMotd" />
+    </root>
+  </artifact>
+</component>

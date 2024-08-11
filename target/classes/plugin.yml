@@ -1,0 +1,5 @@
+name: JAMotd
+version: 1.0
+author: JoseAlissonBR
+website: https://github.com/josealissonbr
+main: br.com.josealissonbr.jamotd.Main
